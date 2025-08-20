@@ -1,0 +1,10 @@
+// Note: This is a placeholder for the actual GLB file
+// In a real implementation, you would need to:
+// 1. Download a robot GLB model (like RobotExpressive from Three.js examples)
+// 2. Place it in the public folder
+// 3. Ensure it has the following animations: Idle, Walking, Running, Dance, Death, Sitting, Standing
+// 
+// You can find the RobotExpressive model at:
+// https://github.com/mrdoob/three.js/blob/master/examples/models/gltf/RobotExpressive/RobotExpressive.glb
+//
+// For now, the application will attempt to load this file from the public directory
